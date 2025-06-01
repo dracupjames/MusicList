@@ -19,7 +19,7 @@ You can add songs yourself, or search by year, artist, or title of a track/album
 
 ## Try It Out
 
-[🎧 Live Demo: Music Tracker](https://dracupjames.github.io/MusicTracker/)
+[🎧 Live Demo: Music Tracker](https://dracupjames.github.io/MusicList/)
 
 ---
 
